@@ -44,7 +44,7 @@ cd client
 cargo run
 ```
 
-3. Enter your message in the terminal. To exit, type ':quit'.
+3. Enter your message in the client terminal. To exit, type ':quit'.
 
 ## Project Structure 
 
